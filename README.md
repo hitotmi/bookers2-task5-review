@@ -1,24 +1,7 @@
-# README
+# 応用課題5
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## booker2に検索機能を追加しよう
+ヘッダーの検索窓を作成し、ユーザー・投稿を検索できる
+完全一致、前方一致、後方一致、部分一致の検索手法をプルダウンメニューで選択できる
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
